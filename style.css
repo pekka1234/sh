@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(172, 136, 19);
+    overflow: hidden;
+}
+
+#vastausalue {
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    right: 0%;
+    height: 15%;
+    width: 100%;
+    background-color: rgb(133, 149, 142);
+}
+
+#keihas{
+    position: absolute;
+    bottom: 1%;
+    left: 40%;
+
+    width: 6%;
+    height: 9%;
+}
+
+#janis{
+    position: absolute;
+    left: -300px;
+    bottom: 80%;
+}
+#mammutti{
+    position: absolute;
+    left: -300px;
+    bottom: 60%;
+}
+
+#kl{
+    position: absolute;
+    bottom: 1%;
+}
